@@ -1,6 +1,6 @@
 version: 2.1
 orbs:
-  heroku: circleci/heroku@1.2.6
+  heroku: AxelMlz/heroku@1.2.6
 workflows:
   heroku_deploy:
     jobs:
