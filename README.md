@@ -12,6 +12,8 @@ Utiliser ce projet sans le frontend necéssite Postman afin de tester les diffé
 
 En haut du fichier ce trouve les données à insérer dans une collection que vous nommerez heroes en suivant le modèle dans le fichier models
 
+Lorsque la collection est prête lié là au serveur MongoDB et lancer le serveur avec la commande "node server.js"
+
 # Routes
 
 GET - Afficher la liste des héros "/heroes"
