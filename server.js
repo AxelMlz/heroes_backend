@@ -17,8 +17,7 @@ MONGO_URI = process.env.MONGO_URI
     //     power: ["money"],
     //     color: "red",
     //     isAlive: false,
-    //     age: 46,
-    //     image: "https://blog.fr.playstation.com/tachyon/sites/10/2019/07/unnamed-file-18.jpg?resize=1088,500&crop_strategy=smart"
+    //     age: 46
     // },
     // {
     //     name: "Thor",
